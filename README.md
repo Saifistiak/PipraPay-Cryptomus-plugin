@@ -1,0 +1,1 @@
+# PipraPay-Cryptomus-plugin
